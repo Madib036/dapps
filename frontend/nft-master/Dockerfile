@@ -25,7 +25,7 @@ ENV REACT_APP_NODE_ADDRESS=${REACT_APP_NODE_ADDRESS} \
 
 RUN npm install -g npm@10.2.2
 
-RUN npm install
+RUN npm install --force
 
 RUN npm run build
 
