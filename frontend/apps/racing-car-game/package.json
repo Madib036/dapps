@@ -21,7 +21,7 @@
     "@polkadot/util": "12.3.2",
     "@radix-ui/react-scroll-area": "1.0.4",
     "assert": "2.1.0",
-    "axios": "1.4.0",
+    "axios": "1.6.0",
     "babel-polyfill": "6.26.0",
     "buffer": "6.0.3",
     "clsx": "1.2.1",
